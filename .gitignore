@@ -1,0 +1,26 @@
+# VSCode Config
+.vscode
+
+# Node Modules
+node_modules
+
+# Config
+config
+
+# Txt
+*.txt
+
+# Media
+media
+
+# Cache
+cache
+
+# Nodemon
+nodemon.json
+
+# setiup
+setup.js
+
+# Code Editors
+.idea
